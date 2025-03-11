@@ -1,4 +1,4 @@
-# Machine Learning in R
+# Data Mining in R (Part 2)
 
 This project analyzes a dataset of house sales in Manhattan. It includes exploratory data analysis (EDA), linear regression, and k-nearest neighbors (k-NN) classification, all programmed in R.
 
